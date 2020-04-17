@@ -1,0 +1,6 @@
+variables:
+  - name: version
+    value: "2.0"
+
+  - name: exampleVariable
+    value: This is a local project variable
