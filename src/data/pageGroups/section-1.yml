@@ -17,3 +17,6 @@ pages:
 
   - title: Diagrams
     url: /diagrams/
+
+  - title: Hello World
+    url: /hello/
